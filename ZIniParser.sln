@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZIniParser", "ZIniParser\ZIniParser.csproj", "{73174CAA-563D-45F2-A2C1-9BDD45AB3C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73174CAA-563D-45F2-A2C1-9BDD45AB3C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73174CAA-563D-45F2-A2C1-9BDD45AB3C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73174CAA-563D-45F2-A2C1-9BDD45AB3C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73174CAA-563D-45F2-A2C1-9BDD45AB3C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8FF191-4F70-40FE-A726-2BF87154A732}
+	EndGlobalSection
+EndGlobal
